@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:'Lato', sans-serif;
+}
+.cloud {
+    height: 20px;
+}
+.header-line{
+    font-size: 5rem;
+    font-family: 'Handlee', cursive;
+    margin :auto;
+    padding-top: 50px;
+}
+.programmer-png{
+    height: 200px;
+    width: 200px;
+}
+
+.front-end{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.back-end{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.header-section{
+    background-color: #e0ebe8;
+}
+h2{
+    font-weight: bold;
+    color: #66BFBF;
+}
+
+.tagline{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h1{
+    color: #66BFBF;
+    line-height: 2;
+}
+h3{
+    color: #11999E;
+}
+a{
+    color: #11999E;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
